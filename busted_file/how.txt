@@ -1,0 +1,8 @@
+ZIP FILE MAGIC NUMBER : 50 4B 03 04
+
+Magic number is a number which system uses to identify the type of file.
+use hex converters to convert the zip file to hex(i used ghex in linux distro)
+
+
+Change the starting bytes of hex as same as 50 4B 03 04(In the hex converter) 
+
