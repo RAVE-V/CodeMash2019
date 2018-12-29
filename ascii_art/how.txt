@@ -1,0 +1,2 @@
+The numbers in the ascii art is ascii equivalent to charecters convert them 
+one by one to get each character.
