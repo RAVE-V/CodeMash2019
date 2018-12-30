@@ -1,0 +1,4 @@
+Esoteric is a kind of programming language.
+
+It uses OOk! esoteric language which has a converter copy paste the language
+in the decoder to get the flag.
