@@ -1,0 +1,34 @@
+So here a java class file is given (expresso.class)
+
+.class is a compiled version of .java file
+
+{
+    .java file is compressed using 
+    
+    javac hello.java (filename) this gives the hello.class
+
+    now to run hello.class file
+
+    java hello  (this runs the java class file)
+
+}
+
+now in this challenge expresso.class file is given. so it is compiled so we 
+run the file using 
+
+java expresso
+
+but it gives error so use any javadecompilers(i used online decompiler 
+www.javadecompilers.com)
+which should give you the java file (expresso.java)
+open it with a text editor go through it
+it has a key and a cipher variable
+which is used for to printout to localstringbuffer variable
+
+
+ The only two things i did i deleted the package file com.hackinglab.ctf
+and inserted system.out.println(localStringBuffer) after the loop to get the 
+flag. 
+
+and compile the file again using javac Espresso.java and i get a Expresso.class
+ file, then i used (java Expresso abc) since it needed a flag abc was given 
