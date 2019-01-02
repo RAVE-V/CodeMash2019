@@ -1,0 +1,11 @@
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\bin\Debug\netcoreapp2.2\new.deps.json
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\bin\Debug\netcoreapp2.2\new.runtimeconfig.json
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\bin\Debug\netcoreapp2.2\new.runtimeconfig.dev.json
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\bin\Debug\netcoreapp2.2\new.dll
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\bin\Debug\netcoreapp2.2\new.pdb
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\obj\Debug\netcoreapp2.2\new.csprojAssemblyReference.cache
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\obj\Debug\netcoreapp2.2\new.csproj.CoreCompileInputs.cache
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\obj\Debug\netcoreapp2.2\new.AssemblyInfoInputs.cache
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\obj\Debug\netcoreapp2.2\new.AssemblyInfo.cs
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\obj\Debug\netcoreapp2.2\new.dll
+C:\Users\R  A  V  I\Desktop\kali and parrot shared\CodeMash2019\Dot_nutcracker\new\obj\Debug\netcoreapp2.2\new.pdb
