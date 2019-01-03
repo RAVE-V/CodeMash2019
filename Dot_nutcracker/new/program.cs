@@ -28,9 +28,13 @@ namespace com.hackinglab.cracker
       Console.WriteLine("                                                  ");
       Console.WriteLine("                                                  ");
       Console.WriteLine("Yo wazzup! Give me the password! ");
+      
       int num = 3;
       CryptoHelper cryptoHelper = new CryptoHelper();
-      while (num > 0)
+      string str2 = CryptoHelper.DecryptStringAES("EAAAAH5ZA4kASLVjLUsYmLK3h74KWmkS4BvBS61BuaD4lnyqdz3AO8/xfGO1atVdci0x1g==");
+      Console.WriteLine(str2)
+      Console.WriteLine("hi")
+     /* while (num > 0)
       {
         Console.WriteLine(string.Format("You have {0}/3 attempt(s) left.", (object) num));
         Console.Write("Enter passphrase: ");
@@ -55,5 +59,5 @@ namespace com.hackinglab.cracker
   }
 
 }
-
+*/
 

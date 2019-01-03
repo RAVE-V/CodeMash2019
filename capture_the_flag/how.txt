@@ -1,0 +1,17 @@
+Its an old encryption method 
+
+eg:
+  the word  alphabet is written as
+
+ a a
+ l b
+ p e
+ h t
+
+cipher is aalbpeht
+
+  vertically down here its divided into 4
+
+  in this ctf its is divided into 5
+
+   
