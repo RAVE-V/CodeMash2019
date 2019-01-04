@@ -29,11 +29,12 @@ namespace com.hackinglab.cracker
       Console.WriteLine("                                                  ");
       Console.WriteLine("Yo wazzup! Give me the password! ");
       
-      int num = 3;
+      //int num = 3;
       CryptoHelper cryptoHelper = new CryptoHelper();
       string str2 = CryptoHelper.DecryptStringAES("EAAAAH5ZA4kASLVjLUsYmLK3h74KWmkS4BvBS61BuaD4lnyqdz3AO8/xfGO1atVdci0x1g==");
-      Console.WriteLine(str2)
-      Console.WriteLine("hi")
+      Console.WriteLine(str2);
+      Console.WriteLine("hi");
+
      /* while (num > 0)
       {
         Console.WriteLine(string.Format("You have {0}/3 attempt(s) left.", (object) num));
@@ -53,11 +54,11 @@ namespace com.hackinglab.cracker
       Console.WriteLine("SORRY, GAME OVER");
       Console.WriteLine("Press enter to quit");
       Console.ReadLine();
-      Environment.Exit(0);
+      Environment.Exit(0);*/
    
     }
   }
 
 }
-*/
+
 
